@@ -1,7 +1,7 @@
 ### 💻 Yazılım Serüvenim
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" width="100%" />
 
-Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde Yazılım Geliştirme Stajyeri olarak bankacılık teknolojileri geliştiriyorum.
+Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde Yazılım Geliştirme Stajyeri olarak bankacılık ürünleri geliştiriyor, test ve analiz ediyorum.
 
 - 🚀 **FinTech** ve **Kurumsal** mimariler üzerinde çalışıyorum.
 - 🛠️ **.NET**, **Go**, **React** ve **Angular** ekosistemine odaklıyım.
