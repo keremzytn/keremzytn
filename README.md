@@ -1,7 +1,4 @@
 # <p align="center"> Mustafa Kerem Zeytun </p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Software%20is%20the%20closest%20thing%20we%20have%20to%20magic.&author=Magic%20Creator" alt="Quote" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mustafa-kerem-zeytun-a5aa20168" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,16 +12,15 @@
 
 Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde Yazılım Geliştirme Stajyeri olarak bankacılık teknolojileri geliştiriyorum.
 
-- 🚀 **FinTech** ve **Açık Bankacılık** mimarileri üzerinde çalışıyorum.
-- 🛠️ **.NET** backend ve **React** frontend ekosistemine odaklıyım.
-- 📈 Geçmişte **Number Fight** adında bir oyun projesi hayata geçirdim.
-
+- 🚀 **FinTech** ve **Kurumsal** mimariler üzerinde çalışıyorum.
+- 🛠️ **.NET**, **Go**, **React** ve **Angular** ekosistemine odaklıyım.
+- ⚙️ **Docker**, **Postman** ve **Git** gibi araçlarla geliştirme süreçlerimi yönetiyorum.
 ---
 
 ### 🛠️ Teknoloji Dünyam
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ts,docker,postgres,mysql,postman,git,github,figma,html,css,visualstudio,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,go,angular,react,js,ts,docker,redis,kafka,postgres,mysql,postman,git,github,figma,html,css,visualstudio,vscode&perline=8" />
   </a>
 </p>
 
