@@ -20,7 +20,7 @@ Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **B
 ### 🛠️ Teknoloji Dünyam
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,go,angular,react,js,ts,docker,redis,kafka,postgres,mysql,postman,git,github,figma,html,css,visualstudio,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,go,angular,react,js,ts,docker,redis,kafka,postgres,mysql,postman,git,github,figma,html,css,visualstudio,vscode&perline=10" />
   </a>
 </p>
 
