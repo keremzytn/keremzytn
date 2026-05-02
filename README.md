@@ -9,29 +9,47 @@
 
 ### 🚀 Hakkımda
 
-Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde yazılım geliştirme stajyeri olarak görev alıyor ve özellikle **Kurumsal** mimariler üzerine odaklanıyorum.
+Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde Yazılım Geliştirme Stajyeri olarak görev alıyor, bankacılık teknolojileri ve modern mimariler üzerine çalışıyorum.
 
-*   🔭 Şu anda **.NET**, **Go**, **React** ve **Angular** kullanarak modern web uygulamaları geliştiriyorum.
-*   💼 **Freelance** olarak web geliştirme projeleri yürütüyorum.
-*   ⚙️ **Docker**, **Postman** ve **Git** gibi araçlarla geliştirme süreçlerimi yönetiyorum.
+*   💻 **Backend Uzmanlığı:** Ağırlıklı olarak **.NET** ve **C#** ile sağlam ve ölçeklenebilir sistemler geliştiriyorum.
+*   🎨 **Frontend Geliştirme:** Kullanıcı arayüzlerinde **React** ve **JavaScript** ekosistemini kullanıyorum.
+*   🛠️ **Freelance Deneyimi:** Müşterilerim için web tabanlı çözümler üretiyor ve sitelerini modernize ediyorum.
+*   ⚙️ **Modern Araçlar:** Projelerimde **Docker**, **Postman** ve **PostgreSQL** gibi teknolojileri aktif olarak kullanıyorum.
+
 ---
 
-### 🛠️ Teknolojik Yetkinlikler
+### 🛠️ Teknolojik Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ts,docker,postgres,mysql,postman,git,githubactions,figma" />
-  </a>
+  <strong>Diller & Frameworkler:</strong> <br/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Veritabanı & Araçlar:</strong> <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Dashboard & Detaylı Analiz
+### 📂 Öne Çıkan Projeler
 
-<p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=keremzytn&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=keremzytn&layout=compact&theme=radical&hide_langs=html,css" width="48%" />
-</p>
+*   **Amorphie & VNext:** Burgan Bank bünyesindeki açık bankacılık ve modern teknoloji platformları üzerine çalışmalar.
+*   **Number Fight:** Yüksek hızlı iletişim ve rekabet odaklı oyun projesi.
+*   **Belediye Portalı:** Kocaeli Büyükşehir Belediyesi için geliştirilen İK ve İş Sağlığı portalı.
+*   **Legacy Modernizasyonu:** WordPress tabanlı yapıların modern React & .NET mimarisine dönüştürülmesi.
+
+---
+
+### 📈 GitHub Aktivitesi
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremzytn&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
@@ -39,11 +57,11 @@ Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda
 
 ---
 
-### 📫 Benimle İletişime Geçin
+### 📫 İletişim
 
 *   **E-posta:** [hello@keremzytun.com.tr](mailto:hello@keremzytun.com.tr)
 *   **Konum:** Bursa, Türkiye
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=keremzytn&color=blue&style=flat-square&label=PROFIL+ZIYARETI" alt="Ziyaretçi Sayacı" />
 </p>
