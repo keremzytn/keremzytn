@@ -30,9 +30,9 @@ Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **B
 
 ---
 
-### 🐍 Kodlama Aktivitem
+### 🐍 Kodlama Serüveni
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/snake?username=keremzytn&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%233d7dff&color_snake=%234334eb" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/keremzytn/keremzytn/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
