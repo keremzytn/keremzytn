@@ -1,4 +1,4 @@
-# Merhaba, Ben [Adınız]! 👋
+# Merhaba, Ben [Kerem Zeytun]! 👋
 
 Kariyer yolculuğumda geliştirdiğim projeler ve teknoloji serüvenim hakkında bilgiler aşağıdadır.
 
