@@ -1,16 +1,18 @@
-## Hi there 👋
+# Merhaba, Ben [Adınız]! 👋
 
-<!--
-**keremzytn/keremzytn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kariyer yolculuğumda geliştirdiğim projeler ve teknoloji serüvenim hakkında bilgiler aşağıdadır.
 
-Here are some ideas to get you started:
+### 📊 GitHub İstatistiklerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Kendi kullanıcı adınızı 'kullaniciadin' yerine yazmayı unutmayın -->
+
+![Stats Card](https://github-readme-stats.vercel.app/api?username=keremzytn&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremzytn&layout=compact&theme=radical)
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+- **Backend:** .NET, C#
+- **Frontend:** React, JavaScript
+- **Araçlar:** Docker, Git, Postman
