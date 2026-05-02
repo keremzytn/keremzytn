@@ -1,12 +1,3 @@
-# <p align="center"> Mustafa Kerem Zeytun </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mustafa-kerem-zeytun-a5aa20168" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://keremzytun.com.tr" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
----
-
 ### 💻 Yazılım Serüvenim
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" width="100%" />
 
