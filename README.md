@@ -6,13 +6,9 @@ Kariyer yolculuğumda geliştirdiğim projeler ve teknoloji serüvenim hakkında
 
 <!-- Kendi kullanıcı adınızı 'kullaniciadin' yerine yazmayı unutmayın -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keremzytn&show_icons=true&theme=radical" alt="Kerem Stats" />
-</p>
+![Stats Card](https://github-readme-stats-one.vercel.app/api?username=keremzytn&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremzytn&layout=compact&theme=radical" alt="Kerem Languages" />
-</p>
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=keremzytn&layout=compact&theme=radical)
 ---
 
 ### 🛠️ Kullandığım Teknolojiler
