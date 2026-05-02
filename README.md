@@ -9,13 +9,11 @@
 
 ### 🚀 Hakkımda
 
-Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde yazılım geliştirme stajyeri olarak görev alıyor ve özellikle **FinTech** mimarileri üzerine odaklanıyorum.
+Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde yazılım geliştirme stajyeri olarak görev alıyor ve özellikle **Kurumsal** mimariler üzerine odaklanıyorum.
 
-*   🔭 Şu anda **.NET** ve **React** kullanarak modern web uygulamaları geliştiriyorum.
+*   🔭 Şu anda **.NET**, **Go**, **React** ve **Angular** kullanarak modern web uygulamaları geliştiriyorum.
 *   💼 **Freelance** olarak web geliştirme projeleri yürütüyorum.
 *   ⚙️ **Docker**, **Postman** ve **Git** gibi araçlarla geliştirme süreçlerimi yönetiyorum.
-*   🎮 **Number Fight** adında bir oyun projesi geliştirdim.
-
 ---
 
 ### 🛠️ Teknolojik Yetkinlikler
