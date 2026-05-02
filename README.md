@@ -9,12 +9,12 @@
 
 ### 🚀 Hakkımda
 
-Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde yazılım geliştirme stajyeri olarak görev alıyor ve özellikle **FinTech** mimarileri, Open Banking ve modern backend teknolojileri üzerine odaklanıyorum.
+Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Burgan Bank Türkiye** bünyesinde yazılım geliştirme stajyeri olarak görev alıyor ve özellikle **FinTech** mimarileri üzerine odaklanıyorum.
 
 *   🔭 Şu anda **.NET** ve **React** kullanarak modern web uygulamaları geliştiriyorum.
 *   💼 **Freelance** olarak web geliştirme projeleri yürütüyorum.
-*   🌱 **Docker** ve **Microservices** mimarileri üzerinde kendimi geliştirmeye devam ediyorum.
-*   🎮 Geçmişte **Number Fight** adında bir oyun geliştirdim ve yüksek hızlı iletişim mimarileri üzerine çalıştım.
+*   ⚙️ **Docker**, **Postman** ve **Git** gibi araçlarla geliştirme süreçlerimi yönetiyorum.
+*   🎮 **Number Fight** adında bir oyun projesi geliştirdim.
 
 ---
 
@@ -22,13 +22,13 @@ Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ts,docker,postgres,mysql,postman,git,figma,githubactions" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ts,docker,postgres,mysql,postman,git,githubactions,figma" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Dashboard & İstatistikler
+### 📊 GitHub Dashboard & Detaylı Analiz
 
 <p align="center">
   <img src="https://github-readme-stats-one.vercel.app/api?username=keremzytn&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" />
@@ -36,7 +36,7 @@ Ben Bursa'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/keremzytn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FIstanbul" alt="Detaylı Analiz" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremzytn&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
